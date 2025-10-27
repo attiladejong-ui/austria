@@ -1,5 +1,4 @@
-#EXTINF:-1 tvg-id="0a6b15d97ca5e2ba034b2b720772a386",1-2-3.tv
-http://194.166.247.125:9981/stream/channelid/1494575882?profile=pass
+
 #EXTINF:-1 tvg-id="a92b493c44fdd2239e8b958ea016fb2d",3sat
 http://194.166.247.125:9981/stream/channelid/1011428265?profile=pass
 #EXTINF:-1 tvg-id="7184b66e57c0ce0d36467df9625d54af",3sat HD
